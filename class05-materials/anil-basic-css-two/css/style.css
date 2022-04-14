@@ -1,0 +1,28 @@
+ /* Please make the li's blue, underlined, 15px, and have a gray background */
+
+ li {
+     color: blue;
+     background-color: gray;
+     text-decoration-line: underline;
+
+ }
+
+
+ /* Please make this section have a height of 300px, a light purple background, a gold border that is 5px thick */
+
+ section {
+height: 300px;
+background-color: lightpink;
+border-color: gold;
+border-style: initial;
+border width: 5px;
+
+ }
+
+ /*Please make this h1 30px, gold, centered, and use the Source Sans Pro Font */
+
+ h1 {
+     
+ }
+ 
+ 
